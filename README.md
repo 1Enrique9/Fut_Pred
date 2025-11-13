@@ -128,8 +128,7 @@ Dependiendo del alcance del proyecto, se pueden implementar:
   - `pandas`, `numpy` para manipulación de datos.
   - `scikit-learn` para modelos de ML y métricas.
   - `sqlalchemy` / conectores específicos para el data warehouse.
-  - (Opcional) `pyspark` para grandes volúmenes de datos.
-- **Data Warehouse:** (rellenar según tu entorno: MySQL / SQL Server / Spark / etc.)
+- **Data Warehouse:** (rellenar según tu entorno: MySQL)
 
 ### 2.2. Estructura del repositorio (propuesta)
 
