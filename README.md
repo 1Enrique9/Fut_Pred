@@ -63,15 +63,6 @@ Se sigue una arquitectura de **data warehouse por capas**:
   - Fechas.
 - Creación de tablas unificadas por temporada / liga / competencia.
 
-#### Capa Gold (Métricas listas para modelado y recomendación)
-
-- Construcción de **features** agregadas y normalizadas:
-  - Métricas por 90 minutos.
-  - Percentiles por posición / liga.
-  - Índices compuestos (ej. índice ofensivo, defensivo, de construcción).
-- Tablas listas para:
-  - **Recomendación** (similaridad de jugadores).
-  - **Modelado ML** (regresión / clasificación / ranking).
 
 ### 1.4. Modeling (Modelado)
 
@@ -125,8 +116,6 @@ Dependiendo del alcance del proyecto, se pueden implementar:
   - Buscar un jugador.
   - Ver sus métricas.
   - Obtener recomendaciones similares.
-
-*(En este repositorio se pueden incluir plantillas / ejemplos para estas opciones.)*
 
 ---
 
