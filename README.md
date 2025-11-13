@@ -29,7 +29,7 @@ Este proyecto sigue la metodología **CRISP-DM (Cross Industry Standard Process 
 - **Formato original:** archivos CSV descargados manualmente (o mediante scripts) con estadísticas avanzadas de jugadores.
 - **Competencias y ligas:** (ejemplo, ajustar según el proyecto real)
   - LaLiga, Premier League, etc.
-  - Temporadas 20XX–20YY.
+  - Temporadas 2024–2025.
 - **Tipos de datos:**
   - Datos básicos: nombre, equipo, liga, posición, edad, minutos jugados.
   - Métricas ofensivas: goles, xG, asistencias, xA, tiros, acciones de creación de tiro (SCA), etc.
