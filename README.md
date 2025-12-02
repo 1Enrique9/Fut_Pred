@@ -1,6 +1,12 @@
 # ⚽ Fútbol Data 2024-2025 · Pipeline Bronze–Silver–Gold
 
-Proyecto personal de **ingeniería de datos y recomendación de jugadores** usando estadísticas de las 5 grandes ligas europeas (Alemania, España, Francia, Inglaterra e Italia).
+Equipo: 
+- Herrera Barron Fabia 
+- Morales Flores Luis Enrique
+- Villalon Pineda Luis Enrique
+
+Proyecto de **ingeniería de datos y recomendación de jugadores** usando estadísticas de las 5 grandes ligas europeas (Alemania, España, Francia, Inglaterra e Italia).
+
 
 La idea general del proyecto es:
 
